@@ -1,0 +1,4 @@
+Brayan Jared Padilla Gonzalez
+10/09/2026
+Objetivo: crear este archivo para continuar con la actividad
+que es Pull Request? es una propuesta formal enviada a los administradores de un proyecto de software para que revisen, discutan e integren los cambios realizados en una rama de código.
